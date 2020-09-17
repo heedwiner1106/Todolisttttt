@@ -1,0 +1,72 @@
+#Title
+{
+    background-color: red;
+    margin: auto;
+    width: 50%;
+    padding: 20px 50px;
+}
+#List 
+{
+    margin: auto;
+    width: 50%;
+}
+h2
+{
+    margin: auto;
+    width: 50%;
+    color: white;
+}
+#TitleText
+{
+    width: 89%;
+}
+#Add
+{
+    width: 10%;
+}
+.true
+{
+    width:100%;
+    float:center;
+    text-decoration: line-through;
+    background-color: gray;
+    color: white;
+}
+.true1
+{
+    width:100%;
+    float:center;
+    background-color: gray;
+    color: white;
+}
+.false
+{
+    background-color: lightgray;
+    width:100%;
+    color: black;
+    float:center;
+}
+.false1
+{
+    background-color: lightgray;
+    width:100%;
+    color: white;
+    float:center;
+}
+#fas fa-check
+{
+    width:20%;
+    float:left;
+}
+#fas fa-times
+{
+
+    width:20%;
+    float:right;
+}
+li
+{
+    margin-left: -50px;
+    padding: 20px 50px;
+    display: flex;
+}
